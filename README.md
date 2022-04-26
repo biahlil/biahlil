@@ -31,6 +31,6 @@ Ohayou Mina-san 🥷
   <img align="center" src="./telegram.png" width="80px" />
 </a>
  <br>
-<a href="https://www.flaticon.com/stickers-pack/social-media-507" title="Social Media stickers" align="center"><h4>Contac me stickers created by Stickers - Flaticon</h4></a>
+<a href="https://www.flaticon.com/stickers-pack/social-media-507" title="Social Media stickers" align="center"><p>Contac me stickers created by Stickers - Flaticon</p></a>
   
  </div>

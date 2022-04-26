@@ -1,5 +1,5 @@
 <h1 align="center">おはよう皆さん<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
-Ohayou Mina-san 🥷
+Ohayou Mina-san<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="40px"> 
 </h1>
 <div align="center">
   <table>
